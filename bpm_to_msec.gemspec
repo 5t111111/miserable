@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = BpmToMsec::VERSION
   spec.authors       = ["WAKASUGI Mubae"]
   spec.email         = ["baenej@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Convert BPM (beats-per-minute) to millisecond.}
+  spec.description   = %q{Convert BPM (beats-per-minute) to millisecond.}
+  spec.homepage      = "https://github.com/5t111111/bpm_to_msec"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
