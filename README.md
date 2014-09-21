@@ -26,11 +26,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'bpm_to_msec'
+
+bpm2ms = BPMToMsec.new(120)
+puts bpm2ms.quarter_note #=> 500.0
+puts bpm2ms.eighth_note #=> 250.0
+```
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/bpm_to_msec/fork )
+1. Fork it ( https://github.com/5t111111/bpm_to_msec/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
