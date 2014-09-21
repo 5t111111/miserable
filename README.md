@@ -1,6 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/bpm_to_msec.svg)](http://badge.fury.io/rb/bpm_to_msec)
 [![Build Status](https://travis-ci.org/5t111111/bpm_to_msec.svg)](https://travis-ci.org/5t111111/bpm_to_msec)
-[![Coverage Status](https://coveralls.io/repos/5t111111/bpm_to_msec/badge.png)](https://coveralls.io/r/5t111111/bpm_to_msec)
+[![Coverage Status](https://coveralls.io/repos/5t111111/bpm_to_msec/badge.png?branch=master)](https://coveralls.io/r/5t111111/bpm_to_msec?branch=master)
 
 =======
 
