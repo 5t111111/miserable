@@ -1,9 +1,9 @@
-require "bpm_to_msec/version"
+require "miserable/version"
 
 #
 # Convert BPM (beats-per-minute) to millisecond
 #
-class BPMToMsec
+class Miserable
   attr_reader :quarter_note
 
   def initialize(bpm)

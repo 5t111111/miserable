@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in bpm_to_msec.gemspec
+# Specify your gem's dependencies in miserable.gemspec
 gemspec

@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'bpm_to_msec/version'
+require 'miserable/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bpm_to_msec"
+  spec.name          = "miserable"
   spec.version       = BpmToMsec::VERSION
   spec.authors       = ["WAKASUGI Mubae"]
   spec.email         = ["baenej@gmail.com"]
   spec.summary       = %q{Convert BPM (beats-per-minute) to millisecond.}
   spec.description   = %q{Convert BPM (beats-per-minute) to millisecond.}
-  spec.homepage      = "https://github.com/5t111111/bpm_to_msec"
+  spec.homepage      = "https://github.com/5t111111/miserable"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
