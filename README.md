@@ -4,7 +4,7 @@
 
 =======
 
-# BPM to Msec
+# Miserable
 
 Convert BPM (beats-per-minute) to millisecond.
 
