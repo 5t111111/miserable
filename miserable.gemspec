@@ -6,7 +6,7 @@ require 'miserable/version'
 Gem::Specification.new do |spec|
   spec.name          = "miserable"
   spec.version       = BpmToMsec::VERSION
-  spec.authors       = ["WAKASUGI Mubae"]
+  spec.authors       = ["Hirofumi Wakasugi"]
   spec.email         = ["baenej@gmail.com"]
   spec.summary       = %q{Convert BPM (beats-per-minute) to millisecond.}
   spec.description   = %q{Convert BPM (beats-per-minute) to millisecond.}
